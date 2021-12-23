@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# A Database for Anime Lovers
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Being an Anime Lover myself I felt good creating this website on ReactJS.
+
+Have A Look Below for using the WebApp.
 
 ## Available Scripts
 
